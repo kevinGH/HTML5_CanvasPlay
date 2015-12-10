@@ -1,0 +1,11 @@
+D:\TestCode\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\bin\CanvasPlay.dll
+D:\TestCode\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\bin\CanvasPlay.pdb
+D:\TestCode\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.csprojResolveAssemblyReference.cache
+D:\TestCode\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.dll
+D:\TestCode\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.pdb
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.csprojResolveAssemblyReference.cache
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.dll
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\obj\Debug\CanvasPlay.pdb
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\bin\CanvasPlay.dll.config
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\bin\CanvasPlay.dll
+F:\TestBed\HTML5_CanvasPlay\CanvasPlay\CanvasPlay\bin\CanvasPlay.pdb
